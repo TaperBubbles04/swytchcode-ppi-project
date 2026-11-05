@@ -1,6 +1,4 @@
-# Swytchcode PPI Internship — Reference Implementation
-
-This project is a complete reference implementation demonstrating the **Swytchcode runtime pattern** for GitHub issue operations. It was built as part of the Swytchcode PPI (Platform Provider Integration) internship task.
+# Swytchcode PPI Project— Reference Implementation
 
 ## Overview
 
