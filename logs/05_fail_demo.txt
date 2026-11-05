@@ -1,0 +1,31 @@
+Owner: TaperBubbles04
+Repo: swytchcode-ppi-project
+Dry-run: False
+List mode: False
+Fail demo: True
+
+💥 Fail demo: attempting to close non-existent issue #999999...
+
+=== CLOSE ISSUE (fail demo) ===
+{
+  "success": true,
+  "result": {
+    "data": {
+      "documentation_url": "https://docs.github.com/rest/issues/issues#update-an-issue",
+      "message": "Not Found",
+      "status": "404"
+    },
+    "error_category": "not_found",
+    "request": {
+      "method": "PATCH",
+      "url": "https://api.github.com/repos/TaperBubbles04/swytchcode-ppi-project/issues/999999"
+    },
+    "retryable": false,
+    "status_code": 404,
+    "suggested_action": "the target resource does not exist; check the ids and the endpoint"
+  }
+}
+
+❌ CLOSE ISSUE (fail demo) PROVIDER ERROR
+  status_code: 404
+  error_category: not_found

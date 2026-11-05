@@ -1,0 +1,44 @@
+# Environment files (may contain secrets)
+.env
+.env.local
+.env.*.local
+
+# Python virtual environment
+venv/
+
+# Swytchcode local state
+.swytchcode/tooling.json.lock
+.swytchcode/mcp.pid
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+.swytchcode/workspace.json
+__pycache__/
+*.pyc

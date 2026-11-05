@@ -1,0 +1,13 @@
+Owner: TaperBubbles04
+Repo: swytchcode-ppi-project
+Dry-run: False
+List mode: False
+Fail demo: False
+
+📝 Creating issue...
+CREATE ISSUE: status=201 #3 https://github.com/TaperBubbles04/swytchcode-ppi-project/issues/3 open
+
+🔒 Closing issue #3...
+CLOSE ISSUE: status=200 #3 https://github.com/TaperBubbles04/swytchcode-ppi-project/issues/3 closed
+
+✅ All operations completed successfully

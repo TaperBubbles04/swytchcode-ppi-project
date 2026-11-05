@@ -1,0 +1,1331 @@
+Providers
+  1Password
+    1Password.1password@v1.2.0
+  AGCO Advanced Telemetry Solutions
+    AGCO Advanced Telemetry Solutions.agco_ats@v1
+  AI Customer Support Agent
+    AI Customer Support Agent.ai_customer_support_agent_api@1.0.0
+  AI21
+    AI21.ai21@1.0
+  Ably
+    Ably.ably@v1.1.1
+  Acuity Scheduling
+    Acuity Scheduling.acuityenterprise@2
+    Acuity Scheduling.acuityscheduling@1.1
+  Adafruit
+    Adafruit.adafruit@v2.0.0
+  Addepar
+    Addepar.addepar@v1
+  Addresszen
+    Addresszen.addresszen@3.0.3
+  Adobe
+    Adobe.adobe@adobe.experience.manager.aem.api.v3.7.1-pre.0
+    Adobe.adobe_cc_libraries@v1
+  Adyen
+    Adyen.adyen@70
+  Adyntel
+    Adyntel.adyntel@3.1.0
+  Affinity
+    Affinity.affinity@2026-07-15
+  AgentQL
+    AgentQL.agentql@3.1.0
+  Aha!
+    Aha!.aha@1.0.0
+  Ahrefs
+    Ahrefs.ahrefs@3.2.0
+  Aimfox
+    Aimfox.aimfox@2.0
+  Aircall
+    Aircall.aircall@2.0
+  Airtable
+    Airtable.airtable@1.0
+    Airtable.airtable_enterprise@1.0
+  Airwallex
+    Airwallex.airwallex@1.0.0
+  Akeneo
+    Akeneo.akeneo@v1.0.0
+  Alchemy Payments
+    Alchemy Payments.alchemy_payments@v1
+  Algolia
+    Algolia.algolia_search@v1
+  Amadeus
+    Amadeus.amadeus@v2.2.0
+  Amazon Bedrock
+    Amazon Bedrock.amazon_bedrock@2023.04.20
+  Amazon SP E-Commerce
+    Amazon SP E-Commerce.amazon_sp_e_commerce_aplus_content_model_apluscontent@apluscontent.2020.11.01.v2020-11-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_application_integrations_model_a@appintegrations.2024.04.01.v2024-04-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_application_management_model@application.2023.11.30.v2023-11-30
+    Amazon SP E-Commerce.amazon_sp_e_commerce_catalog_items_model_catalogitems@catalogitemsv0.v0
+    Amazon SP E-Commerce.amazon_sp_e_commerce_customer_feedback_model@customerfeedback.2024.06.01.v2024-06-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_data_kiosk_model_datakiosk_2023@datakiosk.2023.11.15.v2023-11-15
+    Amazon SP E-Commerce.amazon_sp_e_commerce_delivery_by_deliveryshipmenti@deliveryshipmentinvoicev2022.07.01.v2022-07-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_easy_ship_model_easyship_2022_03_23@easyship.2022.03.23.v2022-03-23
+    Amazon SP E-Commerce.amazon_sp_e_commerce_external_fulfillment_externalfulfill@externalfulfillmentshipments.2024.09.11.v2024-09-11
+    Amazon SP E-Commerce.amazon_sp_e_commerce_fba_inbound_eligibility_model_fb@fbainbound.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_fba_inventory_model_fbainventory@fbainventory.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_feeds_model_2021_06_30@feeds.2021.06.30.v2021-06-30
+    Amazon SP E-Commerce.amazon_sp_e_commerce_finances_model_2024_06@finances.2024.06.19.v2024-06-19
+    Amazon SP E-Commerce.amazon_sp_e_commerce_finances_model_financesinvoices@financesinvoices.2026.06.25.v2026-06-25
+    Amazon SP E-Commerce.amazon_sp_e_commerce_finances_model_financesv0@financesv0.v0
+    Amazon SP E-Commerce.amazon_sp_e_commerce_finances_model_transfers_2024_06@transfers.2024.06.01.v2024-06-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_fulfillment_inbound_model_fulfil@fulfillmentinboundv0.v0
+    Amazon SP E-Commerce.amazon_sp_e_commerce_fulfillment_outbound_model_fulfi@fulfillmentoutbound.2026.07.04.v2026-07-04
+    Amazon SP E-Commerce.amazon_sp_e_commerce_invoices_model_invoicesapimodel@invoicesapimodel.2024.06.19.v2024-06-19
+    Amazon SP E-Commerce.amazon_sp_e_commerce_listings_items_model_listingsite@listingsitems.2021.08.01.v2021-08-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_listings_restrictions_model_list@listingsrestrictions.2021.08.01.v2021-08-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_merchant_fulfillment_model_merch@merchantfulfillmentv0.v0
+    Amazon SP E-Commerce.amazon_sp_e_commerce_messaging_model@messaging.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_notifications_model_notification@notifications.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_product_fees_model_productfeesv0@productfeesv0.v0
+    Amazon SP E-Commerce.amazon_sp_e_commerce_product_pricing_model_productpri@productpricingv0.v0
+    Amazon SP E-Commerce.amazon_sp_e_commerce_product_type_definitions_model_d@definitionsproducttypes.2020.09.01.v2020-09-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_replenishment_model_replenishmen@replenishment.2022.11.07.v2022-11-07
+    Amazon SP E-Commerce.amazon_sp_e_commerce_reports_model_2021_06_30@reports.2021.06.30.v2021-06-30
+    Amazon SP E-Commerce.amazon_sp_e_commerce_sales_model@sales.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_seller_wallet_model_sellerwallet@sellerwallet.2024.03.01.v2024-03-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_sellers_model@sellers.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_services_model@services.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_shipment_invoicing_model_shipmen@shipmentinvoicingv0.v0
+    Amazon SP E-Commerce.amazon_sp_e_commerce_shipping_model@shipping.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_shipping_model_shippingv2@shippingv2.v2
+    Amazon SP E-Commerce.amazon_sp_e_commerce_solicitations_model_solicitation@solicitations.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_supply_sources_model_supplysourc@supplysources.2020.07.01.v2020-07-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_tokens_model_2021_03_01@tokens.2021.03.01.v2021-03-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_uploads_model_2020_11_01@uploads.2020.11.01.v2020-11-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_vehicles_model_2024_11@vehicles.2024.11.01.v2024-11-01
+    Amazon SP E-Commerce.amazon_sp_e_commerce_vendor_direct_fulfillment_inventory@vendordirectfulfillmentinventoryv1.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_vendor_direct_fulfillment_payments_a@vendordirectfulfillmentpaymentsv1.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_vendor_direct_fulfillment_shipping_a@vendordirectfulfillmentshippingv1.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_vendor_direct_fulfillment_transactio@vendordirectfulfillmenttransactionsv1.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_vendor_invoices_model_vendorinvo@vendorinvoices.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_vendor_shipments_model_vendorshi@vendorshipments.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_vendor_transaction_status_model@vendortransactionstatus.v1
+    Amazon SP E-Commerce.amazon_sp_e_commerce_warehousing_and_distribution@awd.2024.05.09.v2024-05-09
+  Amazon Selling Partner
+    Amazon Selling Partner.amazon_sp@v0
+  Anchore
+    Anchore.anchore@v0.1.20
+  Anthropic
+    Anthropic.anthropic@v2026-08-21
+  Apache Airflow
+    Apache Airflow.apache_airflow@0.1.0
+  Apideck
+    Apideck.apideck@v10.30.0
+  Apify
+    Apify.apify@1.0.0
+  Apimatic
+    Apimatic.apimatic@v1.0
+  Apollo
+    Apollo.apollo@1.0
+  AppVeyor
+    AppVeyor.appveyor@v1.0.0
+  Appwrite
+    Appwrite.appwrite@0.8.0
+  Archive
+    Archive.archive@v1.0.0
+  Are.na
+    Are.na.arena@1.0
+  Argo CD
+    Argo CD.argo_cd@version.not.set
+  Argo Workflows
+    Argo Workflows.argo_workflows@vVERSION
+  Asana
+    Asana.asana@1.0
+  Ashby
+    Ashby.ashby@1.0.0
+  AssemblyAI
+    AssemblyAI.assemblyai@v1
+  Atlassian
+    Atlassian.atlassian@1001.0.0-SNAPSHOT-be157d60442fb7548013b4767802040c43c2e44c
+  Attio
+    Attio.attio@3.1.0
+  Auth0
+    Auth0.authentication@1
+    Auth0.management@2.0
+    Auth0.myaccount@1.0
+    Auth0.organization@1.0.0
+  Autodesk
+    Autodesk.autodesk@2.0.0
+  Avaza
+    Avaza.avaza@v1
+  Aviator
+    Aviator.aviator@1.0.0
+  Axesso
+    Axesso.axesso@v1.0.0
+  Azure
+    Azure.azure@v2017-05-15
+  Azure Foundry
+    Azure Foundry.azure_foundry@2024.02.15.prev
+  BBCi
+    BBCi.bbci@v1.0
+  BC Laws
+    BC Laws.bclaws@v1.0.0
+  BambooHR
+    BambooHR.bamboohr@1.0
+  Bandsintown
+    Bandsintown.bandsintown@v3.0.0
+  Basecamp
+    Basecamp.basecamp@2026-09-02
+  Baseten
+    Baseten.baseten@1.0.0
+  Beehiiv
+    Beehiiv.beehiiv@1.0
+  Beezup
+    Beezup.beezup@v2.0
+  Benchling
+    Benchling.benchling@3.0.0
+  BetterStack
+    BetterStack.ai_sre@1.0.0
+    BetterStack.errors@1.0.0
+    BetterStack.telemetry@1.0.0
+    BetterStack.uptime@1.0.0
+  Big Commerce
+    Big Commerce.admin_authentication_storefront@1.0.0
+    Big Commerce.admin_catalog_brands@1.0.0
+    Big Commerce.admin_catalog_categories@1.0.0
+    Big Commerce.admin_catalog_category_trees@1.0.0
+    Big Commerce.admin_catalog_product_modifiers@1.0.0
+    Big Commerce.admin_catalog_product_variant_options@1.0.0
+    Big Commerce.admin_catalog_product_variants@1.0.0
+    Big Commerce.admin_catalog_products@1.0.0
+    Big Commerce.admin_content_abandoned_cart_emails@1.0.0
+    Big Commerce.admin_content_email_template_associations@1.0.0
+    Big Commerce.admin_content_email_templates@1.0.0
+    Big Commerce.admin_content_marketing@1.0.0
+    Big Commerce.admin_content_marketing_scripts@1.0.0
+    Big Commerce.admin_content_page_widgets@1.0.0
+    Big Commerce.admin_content_pages@1.0.0
+    Big Commerce.admin_content_store_content@1.0.0
+    Big Commerce.admin_content_store_content_redirects@1.0.0
+    Big Commerce.admin_content_themes@1.0.0
+    Big Commerce.admin_content_widgets@1.0.0
+    Big Commerce.admin_manage_currencies@1.0.0
+    Big Commerce.admin_management_abandoned_carts@1.0.0
+    Big Commerce.admin_management_carts@1.0.0
+    Big Commerce.admin_management_channels@1.0.0
+    Big Commerce.admin_management_checkouts@1.0.0
+    Big Commerce.admin_management_customer_segmentation@1.0.0
+    Big Commerce.admin_management_customers@3
+    Big Commerce.admin_management_geography@1.0.0
+    Big Commerce.admin_management_infrastructure_hosting@1.0.0
+    Big Commerce.admin_management_inventory@1.0.0
+    Big Commerce.admin_management_order_operations@1.0.0
+    Big Commerce.admin_management_orders@1.0.0
+    Big Commerce.admin_management_pickup@1.0.0
+    Big Commerce.admin_management_price_lists@1.0.0
+    Big Commerce.admin_management_pricing@1.0.0
+    Big Commerce.admin_management_promotion_settings@1.0.0
+    Big Commerce.admin_management_promotions@1.0.0
+    Big Commerce.admin_management_redirects@1.0.0
+    Big Commerce.admin_management_scripts@1.0.0
+    Big Commerce.admin_management_settings@1.0.0
+    Big Commerce.admin_management_shipping@3.0.0
+    Big Commerce.admin_management_sites@1.0.0
+    Big Commerce.admin_management_store_information@3.0.0
+    Big Commerce.admin_management_subscribers@3.0.0
+    Big Commerce.admin_management_system_logs@3.0.0
+    Big Commerce.admin_management_tax@3.0.0
+    Big Commerce.admin_management_tax_classes@3.0.0
+    Big Commerce.admin_management_wishlists@3.0.0
+    Big Commerce.admin_payments_payment_access_token@3.0.0
+    Big Commerce.admin_payments_payment_methods@3.0.0
+    Big Commerce.admin_payments_payment_processing@3.0.0
+    Big Commerce.admin_payments_payment_transaction@3.0.0
+    Big Commerce.admin_template_custom_template_associations@1.0.0
+    Big Commerce.storefront_carts@1.0.0
+    Big Commerce.storefront_checkouts@1.0.0
+    Big Commerce.storefront_consent@1.0.0
+    Big Commerce.storefront_customers@1.0.0
+    Big Commerce.storefront_form_fields@1.0.0
+    Big Commerce.storefront_orders@1.0.0
+    Big Commerce.storefront_pickup@1.0.0
+    Big Commerce.storefront_subscriptions@1.0.0
+  BigRedCloud
+    BigRedCloud.bigredcloud@v1
+  Billbee
+    Billbee.billbee@vV1
+  Binance
+    Binance.binance@v1
+  Bing Webmasters
+    Bing Webmasters.webmasters@1.0.0
+  Bintable
+    Bintable.bintable@v1.0.0-oas3
+  BitGo
+    BitGo.bitgo@v1
+  Bitbucket
+    Bitbucket.bitbucket@v1
+  Bitly
+    Bitly.bitly@4.0.0
+  BoldSign
+    BoldSign.boldsign@3.0.4
+  Boss Insights
+    Boss Insights.bossinsights_api@1.26.0
+  Botify
+    Botify.botify@v1.0.0
+  Botsonic
+    Botsonic.botsonic@3.0.2
+  Box
+    Box.box@2024.0
+  Brandfetch
+    Brandfetch.brandfetch@3.0.1
+  Brevo
+    Brevo.brevo@v3
+  Browserless
+    Browserless.browserless@3.0.0
+  Browshot
+    Browshot.browshot@v1.17.0
+  Buffer
+    Buffer.bufferapp@v1
+  BuiltWith
+    BuiltWith.builtwith@3.1.0
+  BulkSMS
+    BulkSMS.bulksms@v1.1.0
+  Bungie
+    Bungie.bungie@v2.21.9
+  ByAutomata
+    ByAutomata.byautomata@v1.0.1
+  CNAB Online
+    CNAB Online.cnab_online@v1.0.0
+  COVID-19 QR Code Generator
+    COVID-19 QR Code Generator.c19qrserver@v1.1
+  Cal.com
+    Cal.com.cal_com@2.0.0
+  CalendarHero
+    CalendarHero.calendarhero@2.0
+  Calendly
+    Calendly.calendly@2.0.0
+  Call Control
+    Call Control.callcontrol@v2015-11-01
+  CallFire
+    CallFire.callfire@vV2
+  Canada Holidays
+    Canada Holidays.canada_holidays@v1.8.0
+  Canva
+    Canva.canva@v1
+  Cenit
+    Cenit.cenit@v1
+  Ceph Storage Cluster
+    Ceph Storage Cluster.ceph_storage_cluster@v1
+  Channel4
+    Channel4.channel4@v1.0.0
+  ChompThis
+    ChompThis.chompthis@v1.0.0-oas3
+  ChromaDB
+    ChromaDB.chromadb@0.1.0
+  Circl
+    Circl.circl@v1.3
+  Circle
+    Circle.circle_api@1.0.0
+  CircleCI
+    CircleCI.circleci@v2
+  Clever
+    Clever.clever@v1.2.0
+  ClickHouse
+    ClickHouse.clickhouse@1.0
+  Climate Data API
+    Climate Data API.climate@v4.0.11
+  Close CRM
+    Close CRM.close@3.1.0
+  Cloud Elements
+    Cloud Elements.cloud_elements@vapi-v2
+  Cloudflare
+    Cloudflare.cloudflare@4.0.0
+  Cloudmersive
+    Cloudmersive.cloudmersive@v1
+  Clubhouse
+    Clubhouse.clubhouse@v1
+  CockroachDB
+    CockroachDB.cockroachdb@1.0.0
+  Codat
+    Codat.codat@v3.0.0
+  CodeSearch
+    CodeSearch.codesearch@v1.4.0
+  Cohere
+    Cohere.cohere@v1
+  Coinswitch
+    Coinswitch.coinswitch@2.0
+    Coinswitch.hft@5.0
+  College Football Data
+    College Football Data.collegefootballdata@v5.22.0
+  Color Palette API
+    Color Palette API.color@v1.1.0
+  Combell
+    Combell.combell@v2
+  ConfigCat
+    ConfigCat.configcat@v1
+  Confluence
+    Confluence.confluence@v1
+  Confluent Kafka
+    Confluent Kafka.confluent_kafka@v1
+  Conjur
+    Conjur.conjur@v5.3.2
+  Connecteam
+    Connecteam.connecteam@3.1.0
+  Context.dev
+    Context.dev.context_dev@1.0.0
+  Contribly
+    Contribly.contribly@v1.0.0
+  Conversion Tools
+    Conversion Tools.conversion_tools@3.0.3
+  CreateOS
+    CreateOS.sandbox@0.1.0
+  Credas
+    Credas.credas@v1
+  Crypto APIs
+    Crypto APIs.cryptoapis@v1
+  Currency Exchange
+    Currency Exchange.change@v1
+  Customer.io
+    Customer.io.app_api@1.0.0
+    Customer.io.pipelines_api@1.0.0
+    Customer.io.track_api@1.0.0
+    Customer.io.webhooks_api@1.0.0
+  Cybrid
+    Cybrid.cybrid@v1
+  Cycat
+    Cycat.cycat@v0.9
+  D7 Networks
+    D7 Networks.d7networks@v1.0.2
+  Daily Video
+    Daily Video.daily_video@1.1.1
+  DailyBot
+    DailyBot.dailybot@3.1.0
+  DaniWeb
+    DaniWeb.daniweb@v4
+  Data USA
+    Data USA.datausa@v1
+  Data2CRM
+    Data2CRM.data2crm@v1
+  Databricks
+    Databricks.databricks@0.1
+  Datadog
+    Datadog.datadog@v1
+  Daytona
+    Daytona.daytona@3.0.0
+  Deel
+    Deel.deel@1.25.0
+  Deep Art Effects
+    Deep Art Effects.deeparteffects@v2017-02-10T16.24.46Z
+  DeepL
+    DeepL.deepl@v1
+  DeepSeek
+    DeepSeek.deepseek@1.0.0
+  Deepgram
+    Deepgram.deepgram@v1
+  Dev API
+    Dev API.dev@v1.0.0
+  Digital Linguistics
+    Digital Linguistics.digitallinguistics@v0.3.1
+  DigitalNZ
+    DigitalNZ.digitalnz@v3
+  DigitalOcean
+    DigitalOcean.digitalocean@v1
+  Discord
+    Discord.discord@v1
+  Discourse
+    Discourse.discourse@vlatest
+  Docker
+    Docker.docker@v1.33
+  DocuSign
+    DocuSign.docusign@v1
+  Dodo Analytics
+    Dodo Analytics.dodo@v1.7.0
+  Dropbox
+    Dropbox.hellosign_v1@1.0.0
+  Duffel
+    Duffel.flights@2
+  ETSI
+    ETSI.etsi@v2.1.1
+  EVE Online Tech
+    EVE Online Tech.evetech@v1.36
+  Easy Flow
+    Easy Flow.notion@v1
+    Easy Flow.resend@v1
+  Easy PDF Server
+    Easy PDF Server.easypdfserver@v1.0
+  Elastic Cloud
+    Elastic Cloud.elastic_cloud@v1
+  Elasticsearch
+    Elasticsearch.elasticsearch@v1.0
+  ElevenLabs
+    ElevenLabs.elevenlabs@v1.0
+  Elmah
+    Elmah.elmah@v3
+  Envoice
+    Envoice.envoice@v1
+  ExaVault
+    ExaVault.exavault@v2.0
+  ExchangeRate
+    ExchangeRate.exchangerate@v4
+  ExtendsClass
+    ExtendsClass.extendsclass@v0.1
+  FaceCheck
+    FaceCheck.facecheck@v1.02
+  Faretrotter
+    Faretrotter.faretrotter@v2.0
+  Fathom Analytics
+    Fathom Analytics.fathom@v1
+  Federal Election Commission
+    Federal Election Commission.fec@v1.0
+  Figma
+    Figma.figma@v1
+  Fire API
+    Fire API.fire@v1.0
+  Firebase
+    Firebase.firebase@v1beta1
+    Firebase.firebaseappcheck@v1beta
+    Firebase.firebaseappdistribution@v1alpha
+    Firebase.firebaseapphosting@v1beta
+    Firebase.firebasecrashlytics@v1alpha
+    Firebase.firebasedatabase@v1beta
+    Firebase.firebasedataconnect@v1beta
+    Firebase.firebasedynamiclinks@v1
+    Firebase.firebasehosting@v1beta1
+    Firebase.firebaseml@v2beta
+    Firebase.firebaserules@v1
+    Firebase.firebasestorage@v1beta
+    Firebase.firestore@v1beta2
+  Fireblocks
+    Fireblocks.fireblocks@v1
+  Firecrawl
+    Firecrawl.firecrawl@v2
+  Fireworks
+    Fireworks.fireworks@5.10.0
+  Flickr
+    Flickr.flickr@v1.0.0
+  ForceManager
+    ForceManager.forcemanager@3.0.3
+  FormAPI
+    FormAPI.formapi@v1
+  FreeAgent
+    FreeAgent.freeagent@2.0.0
+  FreeTV
+    FreeTV.freetv@v1
+  Freesound
+    Freesound.freesound@v2.0.0
+  FreshBooks
+    FreshBooks.freshbooks@1.0.0
+  FreshDesk
+    FreshDesk.freshdesk@2.0.0
+  Front
+    Front.front_channel@1.0.0
+    Front.front_core@1.0.0
+  Front Channel
+    Front Channel.front_channel@1.0.0
+  Front Core
+    Front Core.front_core@1.0.0
+  Fun Translations
+    Fun Translations.funtranslations@v2.3
+  Furkot
+    Furkot.furkot@v1.0.0
+  FusionAuth
+    FusionAuth.fusionauth@v1
+  Gemini
+    Gemini.gemini@v1beta-2026-08-17
+  GetProspect
+    GetProspect.getprospect@3.0.0
+  GetTheData
+    GetTheData.getthedata@v1.0
+  Getty Images
+    Getty Images.gettyimages@v1
+  Giphy
+    Giphy.giphy@v1.0
+  GitHub
+    GitHub.github@1.1.4
+  GitLab
+    GitLab.gitlab@v4
+  Gladia
+    Gladia.gladia@3.1.0
+  Gmail
+    Gmail.gmail@v1
+    Gmail.gmailpostmastertools@v2
+  Gnani
+    Gnani.gnani@v1
+  Go UPC
+    Go UPC.go_upc@v1.0.0
+  Google Ads
+    Google Ads.adexchangebuyer2@v2beta1
+    Google Ads.admob@v1beta
+    Google Ads.adsense@v2
+    Google Ads.adsenseplatform@v1alpha
+    Google Ads.displayvideo@v4
+    Google Ads.doubleclickbidmanager@v2
+    Google Ads.doubleclicksearch@v2
+    Google Ads.realtimebidding@v1
+    Google Ads.searchads360@v23
+  Google Analytics
+    Google Analytics.analyticsadmin@v1beta
+    Google Analytics.analyticsdata@v1beta
+    Google Analytics.analyticshub@v1beta1
+    Google Analytics.tagmanager@v2
+  Google BigQuery
+    Google BigQuery.bigquery@v2
+    Google BigQuery.bigqueryconnection@v1beta1
+    Google BigQuery.bigquerydatapolicy@v2
+    Google BigQuery.bigquerydatatransfer@v1
+    Google BigQuery.bigqueryreservation@v1
+  Google Calendar
+    Google Calendar.calendar@v3
+  Google Cloud
+    Google Cloud.aiplatform@v1
+    Google Cloud.apigateway@v1beta
+    Google Cloud.apigee@v1
+    Google Cloud.appengine@v1beta
+    Google Cloud.cloudasset@v1p7beta1
+    Google Cloud.cloudbilling@v1beta
+    Google Cloud.cloudbuild@v2
+    Google Cloud.cloudchannel@v1
+    Google Cloud.cloudcommerceprocurement@v1
+    Google Cloud.cloudcontrolspartner@v1beta
+    Google Cloud.clouddeploy@v1
+    Google Cloud.clouderrorreporting@v1beta1
+    Google Cloud.cloudfunctions@v2beta
+    Google Cloud.cloudidentity@v1beta1
+    Google Cloud.cloudkms@v1
+    Google Cloud.cloudlocationfinder@v1alpha
+    Google Cloud.cloudnumberregistry@v1alpha
+    Google Cloud.cloudproductregistry@v1
+    Google Cloud.cloudprofiler@v2
+    Google Cloud.cloudresourcemanager@v3
+    Google Cloud.cloudscheduler@v1beta1
+    Google Cloud.cloudsearch@v1
+    Google Cloud.cloudshell@v1
+    Google Cloud.cloudsupport@v2beta
+    Google Cloud.cloudtasks@v2beta3
+    Google Cloud.cloudtrace@v2beta1
+    Google Cloud.compute@v1
+    Google Cloud.container@v1beta1
+    Google Cloud.dataflow@v1b3
+    Google Cloud.dataproc@v1
+    Google Cloud.datastore@v1beta3
+    Google Cloud.documentai@v1beta3
+    Google Cloud.iam@v2beta
+    Google Cloud.language@v2
+    Google Cloud.logging@v2
+    Google Cloud.ml@v1
+    Google Cloud.monitoring@v3
+    Google Cloud.pubsub@v1beta2
+    Google Cloud.secretmanager@v1beta2
+    Google Cloud.servicemanagement@v1
+    Google Cloud.serviceusage@v1beta1
+    Google Cloud.spanner@v1
+    Google Cloud.speech@v1p1beta1
+    Google Cloud.sqladmin@v1beta4
+    Google Cloud.storage@v1
+    Google Cloud.texttospeech@v1beta1
+    Google Cloud.translate@v3beta1
+    Google Cloud.videointelligence@v1p3beta1
+    Google Cloud.vision@v1p2beta1
+  Google Docs
+    Google Docs.docs@1.0.0
+  Google Drive
+    Google Drive.drive@v3
+    Google Drive.driveactivity@v2
+    Google Drive.drivelabels@v2beta
+  Google Maps
+    Google Maps.addressvalidation@v1
+    Google Maps.areainsights@v1
+    Google Maps.places@v1
+    Google Maps.solar@v1
+    Google Maps.streetviewpublish@v1
+  Google Meet
+    Google Meet.meet@2.0
+  Google Sheets
+    Google Sheets.sheets@4.0.0
+  Google Slides
+    Google Slides.slides@1.0.0
+  Google Workspace
+    Google Workspace.admin_datatransfer@v1
+    Google Workspace.admin_directory@v1
+    Google Workspace.admin_reports@v1
+    Google Workspace.alertcenter@v1beta1
+    Google Workspace.calendar@v3
+    Google Workspace.chat@v1
+    Google Workspace.classroom@v1
+    Google Workspace.docs@v1
+    Google Workspace.drive@v3
+    Google Workspace.driveactivity@v2
+    Google Workspace.drivelabels@v2beta
+    Google Workspace.forms@v1
+    Google Workspace.groupsmigration@v1
+    Google Workspace.groupssettings@v1
+    Google Workspace.keep@v1
+    Google Workspace.licensing@v1
+    Google Workspace.meet@v2
+    Google Workspace.reseller@v1
+    Google Workspace.sheets@v4
+    Google Workspace.slides@v1
+    Google Workspace.tasks@v1
+    Google Workspace.vault@v1
+    Google Workspace.workspaceevents@v1
+  Grafana
+    Grafana.grafana@3.0.3
+  Greenpeace
+    Greenpeace.greenpeace@v1.0.0
+  Greip
+    Greip.greip@v1.2.0
+  Groq
+    Groq.groq@v1
+  Groundhog Day
+    Groundhog Day.groundhog_day@v1.2.1
+  Hacker News
+    Hacker News.hackernews@1.0.0
+  Handwrytten
+    Handwrytten.handwrytten@v1.0.0
+  Hasura
+    Hasura.hasura@1.0.0
+  HelloSign
+    HelloSign.hellosign@3.0.0
+  Heygen
+    Heygen.heygen@3.1.0
+  Hginsights
+    Hginsights.hginsights@2.0.0
+  Highline Audio Streaming
+    Highline Audio Streaming.highline_api@1.0.0
+  Highspot
+    Highspot.highspot@v1
+  Highways England
+    Highways England.highwaysengland@v1
+  HubSpot
+    HubSpot.hubspot_account@v3
+    HubSpot.hubspot_account_audit_logs@v3
+    HubSpot.hubspot_account_test_child@v3
+    HubSpot.hubspot_auth_oauth@v3
+    HubSpot.hubspot_automation@v4
+    HubSpot.hubspot_automation_actions@v4
+    HubSpot.hubspot_automation_actions_v4@v4
+    HubSpot.hubspot_automation_sequences@v4
+    HubSpot.hubspot_automation_v4@v4
+    HubSpot.hubspot_business_units@v3
+    HubSpot.hubspot_cms_authors@v3
+    HubSpot.hubspot_cms_blog_settings@v3
+    HubSpot.hubspot_cms_content_audit@v3
+    HubSpot.hubspot_cms_domains@v3
+    HubSpot.hubspot_cms_hubdb@v3
+    HubSpot.hubspot_cms_media_bridge@v1
+    HubSpot.hubspot_cms_pages@v3
+    HubSpot.hubspot_cms_posts@v3
+    HubSpot.hubspot_cms_site_search@v3
+    HubSpot.hubspot_cms_source_code@v3
+    HubSpot.hubspot_cms_tags@v3
+    HubSpot.hubspot_cms_url_mappings@v3
+    HubSpot.hubspot_cms_url_redirects@v3
+    HubSpot.hubspot_commerce_payment_links@1.0
+    HubSpot.hubspot_communication_preferences_subscriptions@v4
+    HubSpot.hubspot_conversations@v3
+    HubSpot.hubspot_conversations_custom_channels@v3
+    HubSpot.hubspot_conversations_inbox_messages@v3
+    HubSpot.hubspot_conversations_visitor_identification@v3
+    HubSpot.hubspot_crm_appointments@v3
+    HubSpot.hubspot_crm_associations@v4
+    HubSpot.hubspot_crm_associations_schema@v4
+    HubSpot.hubspot_crm_bucket_test111@v3
+    HubSpot.hubspot_crm_calling_extensions@v3
+    HubSpot.hubspot_crm_calls@v3
+    HubSpot.hubspot_crm_carts@v3
+    HubSpot.hubspot_crm_commerce_payments@v3
+    HubSpot.hubspot_crm_commerce_subscriptions@v3
+    HubSpot.hubspot_crm_communications@v3
+    HubSpot.hubspot_crm_companies@v3
+    HubSpot.hubspot_crm_contacts@v3
+    HubSpot.hubspot_crm_contracts@v3
+    HubSpot.hubspot_crm_courses@v3
+    HubSpot.hubspot_crm_custom_objects@v3
+    HubSpot.hubspot_crm_deal_splits@v3
+    HubSpot.hubspot_crm_deals@v3
+    HubSpot.hubspot_crm_discounts@v3
+    HubSpot.hubspot_crm_emails@v3
+    HubSpot.hubspot_crm_exports@v3
+    HubSpot.hubspot_crm_feedback_submissions@v3
+    HubSpot.hubspot_crm_fees@v3
+    HubSpot.hubspot_crm_forecast_types@v3
+    HubSpot.hubspot_crm_forecasts@v3
+    HubSpot.hubspot_crm_goal_targets@v3
+    HubSpot.hubspot_crm_imports@v3
+    HubSpot.hubspot_crm_invoices@v3
+    HubSpot.hubspot_crm_leads@v3
+    HubSpot.hubspot_crm_limits_tracking@v3
+    HubSpot.hubspot_crm_line_items@v3
+    HubSpot.hubspot_crm_listings@v3
+    HubSpot.hubspot_crm_lists@v3
+    HubSpot.hubspot_crm_meetings@v3
+    HubSpot.hubspot_crm_notes@v3
+    HubSpot.hubspot_crm_object_library@v3
+    HubSpot.hubspot_crm_objects@v3
+    HubSpot.hubspot_crm_orders@v3
+    HubSpot.hubspot_crm_owners@v3
+    HubSpot.hubspot_crm_partner_clients@v3
+    HubSpot.hubspot_crm_partner_services@v3
+    HubSpot.hubspot_crm_payments@v3
+    HubSpot.hubspot_crm_pipelines@v3
+    HubSpot.hubspot_crm_postal_mail@v3
+    HubSpot.hubspot_crm_products@v3
+    HubSpot.hubspot_crm_projects@v3
+    HubSpot.hubspot_crm_properties@v3
+    HubSpot.hubspot_crm_property_validations@v3
+    HubSpot.hubspot_crm_public_cards@v3
+    HubSpot.hubspot_crm_public_feature_flags@v3
+    HubSpot.hubspot_crm_public_feature_flags_v3@v3
+    HubSpot.hubspot_crm_quotes@v3
+    HubSpot.hubspot_crm_schemas@v3
+    HubSpot.hubspot_crm_services@v3
+    HubSpot.hubspot_crm_subscription_lifecycle@v1
+    HubSpot.hubspot_crm_tasks@v3
+    HubSpot.hubspot_crm_taxes@v3
+    HubSpot.hubspot_crm_tickets@v3
+    HubSpot.hubspot_crm_timeline@v3
+    HubSpot.hubspot_crm_transcriptions@v3
+    HubSpot.hubspot_crm_uninstalls@v3
+    HubSpot.hubspot_crm_users@v3
+    HubSpot.hubspot_crm_video_conferencing_extension@v3
+    HubSpot.hubspot_data_studio_datasource_ingestion@1.0
+    HubSpot.hubspot_events@v3
+    HubSpot.hubspot_events_manage_event_definitions@v3
+    HubSpot.hubspot_events_send_event_completions@v3
+    HubSpot.hubspot_files@v3
+    HubSpot.hubspot_marketing_aeo@1.0
+    HubSpot.hubspot_marketing_campaigns_public@v3
+    HubSpot.hubspot_marketing_emails@v3
+    HubSpot.hubspot_marketing_emails_v3@v3
+    HubSpot.hubspot_marketing_events@v3
+    HubSpot.hubspot_marketing_forms@v3
+    HubSpot.hubspot_marketing_single_send@v4
+    HubSpot.hubspot_marketing_transactional_single_send@v3
+    HubSpot.hubspot_meta_origins@v1
+    HubSpot.hubspot_scheduler_meetings@v3
+    HubSpot.hubspot_settings_multicurrency@v3
+    HubSpot.hubspot_settings_tax_rates@v1
+    HubSpot.hubspot_settings_user_provisioning@v3
+    HubSpot.hubspot_webhooks@v3
+    HubSpot.hubspot_webhooks_journal@1.0
+  Hubhopper
+    Hubhopper.hubhopper@v5
+  Hugging Face
+    Hugging Face.huggingface@v1
+  Hystruct
+    Hystruct.hystruct@3.0.0
+  Image Charts
+    Image Charts.image_charts@v6.1.19
+  InfluxDB
+    InfluxDB.influxdb@0.1.0
+  Intercom
+    Intercom.intercom@2.15
+  Interzoid
+    Interzoid.interzoid@3.0.3
+  Iterable
+    Iterable.iterable@2.0
+  Jev
+    Jev.jev@0.2.0
+  Jigsawstack
+    Jigsawstack.jigsawstack@3.1.0
+  Jina
+    Jina.jina@v1
+  Jira
+    Jira.jira@v1
+  Keycloak
+    Keycloak.keycloak@v1
+  Klaviyo
+    Klaviyo.klaviyo@v1
+  Kubernetes
+    Kubernetes.kubernetes@unversioned
+  LFG
+    LFG.lfg@1.0.0
+  LangBase
+    LangBase.langbase@3.0.0
+  Leadfeeder
+    Leadfeeder.leadfeeder@3.1.1
+  Lightspark
+    Lightspark.lightspark@v1
+  LinkedIn
+    LinkedIn.linkedin@v202605
+  Linode
+    Linode.linode@4.215.0
+  LlamaPay
+    LlamaPay.llamapay@v1
+  Lmnt
+    Lmnt.lmnt@3.1.0
+  Luma
+    Luma.luma@1.0.0
+  MailerLite
+    MailerLite.mailerlite@2.0
+  Mapbox
+    Mapbox.mapbox@v1
+  Matterport
+    Matterport.matterport@3.0.0
+  Meilisearch
+    Meilisearch.meilisearch@v1
+  Metabase
+    Metabase.metabase@vLOCAL.DEV
+  Microsoft API
+    Microsoft API.microsoft@1.0
+  Microsoft Azure Resource Manager
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_adhybridhealthservice@adhybridhealthservice.v2014-01-01
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_advisor_2017_03_31@advisor.v2017-03-31
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_advisor_2017_04_19@advisor.v2017-04-19
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_advisor_2020_01@advisor.v2020-01-01
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_advisor_2022_09_01@advisor.v2022-09-01
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_alertsmanagement_2018_05@alertsmanagement.v2018-05-05
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_alertsmanagement_smartdetectoralertrulesapi@smartdetectoralertrulesapi.v2019-06-01
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_analysisservices_2016_05_16@analysisservices.v2016-05-16
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_analysisservices_2017_07_14@analysisservices.v2017-07-14
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_analysisservices_2017_08_01@analysisservices.v2017-08-01
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_apimanagement_2016_07@apimanagement.v2016-07-07
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_apimanagement_2017_03_01@apimanagement.v2017-03-01
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_apimanagement_apimdeployment_2016_07@apimdeployment.v2016-07-07
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_appconfiguration_2019_10_01@appconfiguration.v2019-10-01
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_appconfiguration_2020_06_01@appconfiguration.v2020-06-01
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_appplatform_2020_07_01@appplatform.v2020-07-01
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_appplatform_2022_04_01@appplatform.v2022-04-01
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_appplatform_2022_12_01@appplatform.v2022-12-01
+    Microsoft Azure Resource Manager.microsoft_azure_resource_manager_cloud_appplatform_2023_12_01@appplatform.v2023-12-01
+  Mintlify
+    Mintlify.mintlify@3.0.1
+  Mistral
+    Mistral.mistral@v1
+  Modern Treasury
+    Modern Treasury.modern_treasury_api@1.0.0
+  Mollie
+    Mollie.mollie@v1
+  Moneybird
+    Moneybird.moneybird@3.1.0
+  MongoDB Atlas
+    MongoDB Atlas.mongodb_atlas@2.0
+  Mural Pay
+    Mural Pay.mural_pay@v1
+  NASA
+    NASA.nasa@v1
+  Neon
+    Neon.neon@3.0.3
+  Netlify
+    Netlify.netlify@v1
+  NewsData
+    NewsData.newsdata@v1
+  NocoDB
+    NocoDB.nocodb@v1.0
+  Notion
+    Notion.notion@2.0.0
+  Ollama
+    Ollama.ollama@3.1.0
+  OpenAI
+    OpenAI.openai@2.3.0
+  OpenSea
+    OpenSea.open_sea@3.1.0
+  OpenWeather
+    OpenWeather.openweather@2.0.0
+  Ops Library 2.0
+    Ops Library 2.0.ops_lib@1.0.0
+  Oracle Cloud OCI
+    Oracle Cloud OCI.oci_access_governance_cp@v20220518
+    Oracle Cloud OCI.oci_adm@v20220421
+    Oracle Cloud OCI.oci_advisor@v20200606
+    Oracle Cloud OCI.oci_analytics@v20190331
+    Oracle Cloud OCI.oci_announcements@v0.0.1
+    Oracle Cloud OCI.oci_apm_config@v20210201
+    Oracle Cloud OCI.oci_apm_control_plane@v20200630
+    Oracle Cloud OCI.oci_apm_synthetic_monitoring@v20200630
+    Oracle Cloud OCI.oci_apm_trace_explorer@v20200630
+    Oracle Cloud OCI.oci_audit@v20190901
+    Oracle Cloud OCI.oci_autoscaling@v20181001
+    Oracle Cloud OCI.oci_bastion@v20210331
+    Oracle Cloud OCI.oci_batch@v20251031
+    Oracle Cloud OCI.oci_bigdata@v20190531
+    Oracle Cloud OCI.oci_blockchain@v20191010
+    Oracle Cloud OCI.oci_budgets@v20190111
+    Oracle Cloud OCI.oci_certificates@v20210224
+    Oracle Cloud OCI.oci_certificatesmgmt@v20210224
+    Oracle Cloud OCI.oci_cloud_guard@v20200131
+    Oracle Cloud OCI.oci_clusterplacementgroups@v20230801
+    Oracle Cloud OCI.oci_compute_cloud_at_customer@v20221208
+    Oracle Cloud OCI.oci_container_instances@v20210415
+    Oracle Cloud OCI.oci_container_registry@v20180419
+    Oracle Cloud OCI.oci_containerengine@v20180222
+    Oracle Cloud OCI.oci_cost_anomaly@v20190111
+    Oracle Cloud OCI.oci_dashboard@v20210731
+    Oracle Cloud OCI.oci_data_catalog@v20190325
+    Oracle Cloud OCI.oci_data_flow@v20200129
+    Oracle Cloud OCI.oci_data_integration@v20200430
+    Oracle Cloud OCI.oci_data_platform@v20240831
+    Oracle Cloud OCI.oci_data_safe@v20181201
+    Oracle Cloud OCI.oci_gateway@v20190501
+    Oracle Cloud OCI.oci_netmonitor@v20160918
+    Oracle Cloud OCI.oci_ocb@v20220509
+  Oracle Eloqua
+    Oracle Eloqua.oracle_eloqua@v1
+  Oracle Fusion
+    Oracle Fusion.oracle_fusion_absences@v1
+    Oracle Fusion.oracle_fusion_access_groups@v1
+    Oracle Fusion.oracle_fusion_accounts@v1
+    Oracle Fusion.oracle_fusion_accounts_receivable@v1
+    Oracle Fusion.oracle_fusion_activities@v1
+    Oracle Fusion.oracle_fusion_announcements@v1
+    Oracle Fusion.oracle_fusion_applications@v1
+    Oracle Fusion.oracle_fusion_assignments@v1
+    Oracle Fusion.oracle_fusion_audit@v1
+    Oracle Fusion.oracle_fusion_award_budgets@v1
+    Oracle Fusion.oracle_fusion_awards@v1
+    Oracle Fusion.oracle_fusion_budgetary_control@v1
+    Oracle Fusion.oracle_fusion_cash_management@v1
+    Oracle Fusion.oracle_fusion_change_orders@v1
+    Oracle Fusion.oracle_fusion_common_lookups@v1
+    Oracle Fusion.oracle_fusion_compensation@v1
+    Oracle Fusion.oracle_fusion_contacts@v1
+    Oracle Fusion.oracle_fusion_currency_rates@v1
+    Oracle Fusion.oracle_fusion_data_management@v1
+    Oracle Fusion.oracle_fusion_deliverables@v1
+    Oracle Fusion.oracle_fusion_erp_integrations@v1
+    Oracle Fusion.oracle_fusion_expenditure_types@v1
+    Oracle Fusion.oracle_fusion_expense_reports@v1
+    Oracle Fusion.oracle_fusion_features@v1
+    Oracle Fusion.oracle_fusion_financial_project_plans@v1
+    Oracle Fusion.oracle_fusion_general_ledger@v1
+    Oracle Fusion.oracle_fusion_inventory@v1
+    Oracle Fusion.oracle_fusion_invoices@v1
+    Oracle Fusion.oracle_fusion_items@v1
+    Oracle Fusion.oracle_fusion_jobs@v1
+    Oracle Fusion.oracle_fusion_leads@v1
+    Oracle Fusion.oracle_fusion_learning@v1
+    Oracle Fusion.oracle_fusion_manage_tasks@v1
+    Oracle Fusion.oracle_fusion_migration@v1
+    Oracle Fusion.oracle_fusion_opportunities@v1
+    Oracle Fusion.oracle_fusion_payments@v1
+    Oracle Fusion.oracle_fusion_payroll@v1
+    Oracle Fusion.oracle_fusion_persons@v1
+    Oracle Fusion.oracle_fusion_planning@v1
+    Oracle Fusion.oracle_fusion_project_tasks@v1
+    Oracle Fusion.oracle_fusion_projects@v1
+    Oracle Fusion.oracle_fusion_purchase_orders@v1
+    Oracle Fusion.oracle_fusion_recruiting@v1
+    Oracle Fusion.oracle_fusion_roles@v1
+    Oracle Fusion.oracle_fusion_sales_orders@v1
+    Oracle Fusion.oracle_fusion_scheduled_processes@v1
+    Oracle Fusion.oracle_fusion_service_requests@v1
+    Oracle Fusion.oracle_fusion_shipments@v1
+    Oracle Fusion.oracle_fusion_suppliers@v1
+    Oracle Fusion.oracle_fusion_talent_profiles@v1
+    Oracle Fusion.oracle_fusion_work_orders@v1
+    Oracle Fusion.oracle_fusion_workers@v1
+  Ory Hydra
+    Ory Hydra.ory_hydra@v1.0
+  Ory Keto
+    Ory Keto.ory_keto@v1.0.0
+  Ory Kratos
+    Ory Kratos.ory_kratos@v1.0
+  Ory Oathkeeper
+    Ory Oathkeeper.ory_oathkeeper@v1.0.0
+  Paxos
+    Paxos.paxos@v1
+  PayPal
+    PayPal.billing_subscriptions_v1@1.0
+    PayPal.catalogs_products_v1@1.0
+    PayPal.checkout_orders_v2@2.0
+    PayPal.customer_disputes_v1@1.0
+    PayPal.customer_partner_referrals_v2@2.0
+    PayPal.invoicing_v2@2.0
+    PayPal.notifications_webhooks_v1@1.0
+    PayPal.payment_experience_web_profiles_v1@1.0
+    PayPal.payments_payment_v2@2.0
+    PayPal.payments_payouts_batch_v1@1.0
+    PayPal.paypal_api@1.0.0
+    PayPal.reporting_transactions_v1@1.0
+    PayPal.shipping_shipment_tracking_v1@1.0
+    PayPal.vault_payment_tokens_v3@3.0
+  Payhip
+    Payhip.payhip@2.0
+  Pexels
+    Pexels.pexels@v1
+  Pier Finance
+    Pier Finance.pier_api@1.0
+  Pinecone
+    Pinecone.pinecone_v20230401_1@1.0.0
+  PlanetScale
+    PlanetScale.planetscale@v1
+  Procore
+    Procore.procore@2.0.0
+  Prometheus
+    Prometheus.prometheus@0.0.1.undefined
+  Qdrant
+    Qdrant.qdrant@v1
+  Ramp
+    Ramp.ramp_developer_api@1.0.0
+  Razorpay
+    Razorpay.razorpay@3.0.0
+  ReadyRemit
+    ReadyRemit.readyremit_api@1.0.0
+  Recurly
+    Recurly.recurly_v3_api@v2021-02-25
+  Reddit
+    Reddit.reddit@v1
+  Render
+    Render.render@3.1.0
+  Replicate
+    Replicate.replicate@1.0.0.a1
+  Resend
+    Resend.resend@1.5.0
+  Retell AI
+    Retell AI.retellai@3.0.3
+  Revolut
+    Revolut.revolut_api@1.0.0
+  RingCentral
+    RingCentral.ringcentral@1.0.46
+  Runpod
+    Runpod.runpod@3.1.0
+  SAP
+    SAP.sap@1.0.0
+    SAP.sap_billing_document@v1
+    SAP.sap_business_partner@v1
+    SAP.sap_journal_entry@v1
+    SAP.sap_product_master@v1
+    SAP.sap_purchase_order@v1
+    SAP.sap_sales_order@v1
+  Sage Intacct
+    Sage Intacct.sage_intacct_rest_api@1.0.0
+  Salesflare
+    Salesflare.salesflare@2.0
+  Salesforce
+    Salesforce.salesforce@66.0
+  Saperly
+    Saperly.saperly@3.2.0
+  Sarvam ai
+    Sarvam ai.sarvam_apis@v1
+    Sarvam ai.sarvam_voice_agents@v1
+  ScamShield
+    ScamShield.scamshield_core_api@1.0.0
+  Scrapegraph
+    Scrapegraph.scrapegraph@3.1.0
+  ScreenshotOne
+    ScreenshotOne.screenshotone@3.0.3
+  SendFox
+    SendFox.sendfox@3.0.3
+  SendGrid
+    SendGrid.sendgrid@v1
+  Sentry
+    Sentry.sentry@0
+  Serply
+    Serply.serply@3.1.0
+  Siemens
+    Siemens.activities_api@1.2.0
+    Siemens.building_operations_api@1.5.0
+    Siemens.energy_and_environment_api@1.0.0
+    Siemens.lifecycle_twin_api@2.0.6
+    Siemens.location_services_api@1.0.0
+    Siemens.nurse_call_system_api@1.0.0
+    Siemens.occupancy_api@1.0.0
+    Siemens.ot_companion_asset_management_api@1.0
+    Siemens.ot_companion_protection_settings_api@1.0
+    Siemens.product_information_hub@2.0.0
+    Siemens.security_workflow_api@1.1.0
+    Siemens.sigreen_my_task_api@1.16.0
+    Siemens.sigreen_pcf_api@1.16.1
+    Siemens.sigreen_procurement_api@1.16.9
+    Siemens.sigreen_product_api@1.16.9
+    Siemens.simatic_pcs_neo_in_the_cloud@1.0.0
+    Siemens.visitor_manager_api@0.1.0
+  Slack
+    Slack.slack@1.7.0
+  Slite
+    Slite.slite@3.0.0
+  Snowflake
+    Snowflake.snowflake@2.0.0
+    Snowflake.snowflake_account@2.0.0
+    Snowflake.snowflake_alert@2.0.0
+    Snowflake.snowflake_artifact_repository@2.0.0
+    Snowflake.snowflake_catalog_integration@2.0.0
+    Snowflake.snowflake_compute_pool@2.0.0
+    Snowflake.snowflake_cortex_analyst@2.0.0
+    Snowflake.snowflake_cortex_embed@2.0.0
+    Snowflake.snowflake_cortex_generic_anthropic@2.0.0
+    Snowflake.snowflake_cortex_generic_openai@2.0.0
+    Snowflake.snowflake_cortex_inference@2.0.0
+    Snowflake.snowflake_cortex_search_service@2.0.0
+    Snowflake.snowflake_database@2.0.0
+    Snowflake.snowflake_database_role@2.0.0
+    Snowflake.snowflake_dynamic_table@2.0.0
+    Snowflake.snowflake_event_table@2.0.0
+    Snowflake.snowflake_external_volume@2.0.0
+    Snowflake.snowflake_function@2.0.0
+    Snowflake.snowflake_grant@2.0.0
+    Snowflake.snowflake_iceberg_table@2.0.0
+    Snowflake.snowflake_image_repository@2.0.0
+    Snowflake.snowflake_integration@2.0.0
+    Snowflake.snowflake_managed_account@2.0.0
+    Snowflake.snowflake_network_policy@2.0.0
+    Snowflake.snowflake_network_rule@2.0.0
+    Snowflake.snowflake_notebook@2.0.0
+    Snowflake.snowflake_notification_integration@2.0.0
+    Snowflake.snowflake_password_policy@2.0.0
+    Snowflake.snowflake_pipe@2.0.0
+    Snowflake.snowflake_procedure@2.0.0
+    Snowflake.snowflake_result@2.0.0
+    Snowflake.snowflake_role@2.0.0
+    Snowflake.snowflake_schema@2.0.0
+    Snowflake.snowflake_secret@2.0.0
+    Snowflake.snowflake_sequence@2.0.0
+    Snowflake.snowflake_service@2.0.0
+    Snowflake.snowflake_spark_connect@2.0.0
+    Snowflake.snowflake_stage@2.0.0
+    Snowflake.snowflake_stream@2.0.0
+    Snowflake.snowflake_streamlit@2.0.0
+    Snowflake.snowflake_table@2.0.0
+    Snowflake.snowflake_tag@2.0.0
+    Snowflake.snowflake_task@2.0.0
+    Snowflake.snowflake_user@2.0.0
+    Snowflake.snowflake_user_defined_function@2.0.0
+    Snowflake.snowflake_view@2.0.0
+    Snowflake.snowflake_warehouse@2.0.0
+  Square Payments
+    Square Payments.square@2.0
+  Stellar Disbursement Platform
+    Stellar Disbursement Platform.stellar_disbursement_platform@v1
+  Stripe
+    Stripe.stripe@2026-06-24.dahlia
+  Tabstack
+    Tabstack.tabstack@1.0
+  Telegram
+    Telegram.telegram_v5_0@1.0.0
+  Telnyx
+    Telnyx.telnyx@3.1.0
+  TextCortex
+    TextCortex.textcortex@3.0.2
+  Tidy
+    Tidy.tidy@3.1.0
+  Tinyfish
+    Tinyfish.tinyfish@v2026-08-21
+  Todoist
+    Todoist.todoist@3.1.0
+  Together
+    Together.together@v1
+  Turso
+    Turso.turso@0.1.0
+  Twilio
+    Twilio.twilio@1.0.0
+    Twilio.twilio_accounts_api@1.0.0
+    Twilio.twilio_api_v2010@2010-04-01
+    Twilio.twilio_assistants_v1@1.0.0
+    Twilio.twilio_bulkexports_v1@1.0.0
+    Twilio.twilio_chat_v1@1.0.0
+    Twilio.twilio_chat_v2@2.0.0
+    Twilio.twilio_chat_v3@3.0.0
+    Twilio.twilio_content_v1@1.0.0
+    Twilio.twilio_content_v2@2.0.0
+    Twilio.twilio_conversations_v1@1.0.0
+    Twilio.twilio_conversations_v2@2.0.0
+    Twilio.twilio_events_v1@1.0.0
+    Twilio.twilio_flex_v1@1.0.0
+    Twilio.twilio_flex_v2@2.0.0
+    Twilio.twilio_frontline_v1@1.0.0
+    Twilio.twilio_iam_organizations@1.0.0
+    Twilio.twilio_iam_scim@1.0.0
+    Twilio.twilio_iam_v1@1.0.0
+    Twilio.twilio_insights_v1@1.0.0
+    Twilio.twilio_insights_v2@2.0.0
+    Twilio.twilio_insights_v3@3.0.0
+    Twilio.twilio_intelligence_v2@2.0.0
+    Twilio.twilio_intelligence_v3@3.0.0
+    Twilio.twilio_ip_messaging_v1@1.0.0
+    Twilio.twilio_ip_messaging_v2@2.0.0
+    Twilio.twilio_knowledge_v1@1.0.0
+    Twilio.twilio_knowledge_v2@2.0.0
+    Twilio.twilio_lookups_v1@1.0.0
+    Twilio.twilio_lookups_v2@2.0.0
+    Twilio.twilio_marketplace_v1@1.0.0
+    Twilio.twilio_memory_v1@1.0.0
+    Twilio.twilio_messaging_v1@1.0.0
+    Twilio.twilio_messaging_v2@1.0.0
+    Twilio.twilio_messaging_v3@1.0.0
+    Twilio.twilio_monitor_v1@1.0.0
+    Twilio.twilio_monitor_v2@1.0.0
+    Twilio.twilio_notify_v1@1.0.0
+    Twilio.twilio_numbers_v1@1.0.0
+    Twilio.twilio_numbers_v2@1.0.0
+    Twilio.twilio_numbers_v3@1.0.0
+    Twilio.twilio_oauth_v1@1.0.0
+    Twilio.twilio_preview@1.0.0
+    Twilio.twilio_pricing_v1@1.0.0
+    Twilio.twilio_pricing_v2@1.0.0
+    Twilio.twilio_proxy_v1@1.0.0
+    Twilio.twilio_routes_v2@1.0.0
+    Twilio.twilio_segments@73.6.0
+    Twilio.twilio_serverless_v1@1.0.0
+    Twilio.twilio_studio_v1@1.0.0
+    Twilio.twilio_studio_v2@1.0.0
+    Twilio.twilio_supersim_v1@1.0.0
+    Twilio.twilio_sync_v1@1.0.0
+    Twilio.twilio_taskrouter_v1@1.0.0
+    Twilio.twilio_trunking_v1@1.0.0
+    Twilio.twilio_trusthub_v1@1.0.0
+    Twilio.twilio_verify_v2@1.0.0
+    Twilio.twilio_video_v1@1.0.0
+    Twilio.twilio_voice_v1@1.0.0
+    Twilio.twilio_wireless_v1@1.0.0
+  Typefully
+    Typefully.typefully@3.1.0
+  Typless
+    Typless.typless@3.1.0
+  Unsplash
+    Unsplash.unsplash@v1
+  Uptime Robot
+    Uptime Robot.uptimerobot@3.0.0
+  VerbAI
+    VerbAI.openai@1.0.0
+  Vercel
+    Vercel.vercel@0.0.1
+  Verifone
+    Verifone.verifone_3ds_authentication_api@1.0.0
+    Verifone.verifone_customer_api@1.0.0
+    Verifone.verifone_ecommerce_api@1.0.0
+    Verifone.verifone_paypal_ecommerce_api@1.0.0
+    Verifone.verifone_reporting_api@1.0.0
+  Vibewright
+    Vibewright.openai@1.0.0
+  Wachete
+    Wachete.wachete@3.0.1
+  WeatherAPI
+    WeatherAPI.weatherapi@v1
+  Weaviate
+    Weaviate.weaviate@1.39.0.rc.1
+  Whop
+    Whop.whop@3.1.0
+  X.com
+    X.com.x@2
+  Xero
+    Xero.xero@v1
+  YouTube
+    YouTube.youtube@v3
+    YouTube.youtubeanalytics@v2
+    YouTube.youtubereporting@v1
+  Zoom
+    Zoom.zoom@v2
+  ZoomInfo
+    ZoomInfo.zoominfo@v1
+  apaleo
+    apaleo.apaleo@v1
+  art19
+    art19.art19@v1.0.0
+  authentix
+    authentix.authentix@1.0.0
+  bunq
+    bunq.bunq@v1.0
+  doqs
+    doqs.doqs@v1.0
+  drchrono
+    drchrono.drchrono@v1
+  eSputnik
+    eSputnik.esputnik@3.0.1
+  figshare
+    figshare.figshare@v2.0
+  ipstack
+    ipstack.ipstack@v1
+  monday.com
+    monday.com.monday@3.1.0
+  npm
+    npm.npm@3.1.1
+  pdfless
+    pdfless.pdfless@2.0
+
+  Install a provider version: swytchcode add provider <provider.library@version>
+  (fetch its bundles first with: swytchcode get <provider>)
+
+Search workflows: swytchcode search <intent>
+posthog 2026/11/03 19:06:00 WARN: shutdown timeout exceeded, some messages may be lost
+posthog 2026/11/03 19:06:00 WARN: shutdown timeout: 1 batches still in flight

@@ -1,0 +1,6 @@
+2026/11/04 13:42:44 [swytchcode exec] request tool=github.issue.get1 {"owner":"TaperBubbles04","repo":"swytchcode-ppi-project"}
+🔐 Running live - GitHub (production)
+
+{"data":[],"request":{"method":"GET","url":"https://api.github.com/repos/TaperBubbles04/swytchcode-ppi-project/issues?direction=desc\u0026page=1\u0026per_page=30\u0026sort=created\u0026state=open"},"status_code":200}
+posthog 2026/11/04 13:42:46 WARN: shutdown timeout exceeded, some messages may be lost
+posthog 2026/11/04 13:42:46 WARN: shutdown timeout: 1 batches still in flight
